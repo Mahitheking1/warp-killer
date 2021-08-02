@@ -1,4 +1,4 @@
-# warp-killer
+
 How to use warp-killer on ( android )
 1.If it is not installed on your device, download it here. Termux
 2.Open Termux app
