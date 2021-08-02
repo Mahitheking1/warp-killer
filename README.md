@@ -7,7 +7,7 @@ How to use warp-killer on ( android )
 2.Open [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en_GB) app
 
 
-3.next type: python pkg install python
+3.next type: pkg install python
 
  
 4.then type: git pkg install git 
